@@ -1,4 +1,3 @@
 * How pieces move
 * capturing pieces
 * special moves
-* intro
